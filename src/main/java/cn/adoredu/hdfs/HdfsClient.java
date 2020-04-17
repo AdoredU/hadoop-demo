@@ -1,4 +1,4 @@
-package com.adoredu.hdfs;
+package cn.adoredu.hdfs;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

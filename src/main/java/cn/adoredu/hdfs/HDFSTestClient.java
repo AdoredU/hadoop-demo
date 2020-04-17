@@ -1,4 +1,4 @@
-package com.adoredu.hdfs;
+package cn.adoredu.hdfs;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.hadoop.conf.Configuration;
